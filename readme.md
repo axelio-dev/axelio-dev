@@ -14,7 +14,7 @@ I sometimes/regularly use these tools :
 ## Platforms / Software used
 
 I use these software:
-<br /><a href="#">[![](https://skillicons.dev/icons?i=github,vscode,visualstudio,discord&theme=dark)]()</a>
+<br /><a href="#">[![](https://skillicons.dev/icons?i=github,vscode,discord&theme=dark)]()</a>
 
 ## Activity statistics
 
