@@ -3,12 +3,12 @@
 
 ## ✒️ Programming languages
 
-I master / use these programming languages :
+I master / use these programming languages:
 <br /><a href="#">[![](https://skillicons.dev/icons?i=html,css,js,ts,&theme=dark)]()</a>
 
 ## 🧰 Tools used
 
-I sometimes/regularly use these tools :
+I sometimes/regularly use these tools:
 <br /><a href="#">[![](https://skillicons.dev/icons?i=nextjs,react,tailwind,mongodb,git,&theme=dark)]()</a>
 
 ## Platforms / Software used
