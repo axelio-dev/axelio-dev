@@ -19,10 +19,9 @@ I use these software:
 ## Activity statistics
 
 <a href="#">![Github stats](https://github-readme-stats-fast.vercel.app/api?username=axelio-dev&show_icons=true&theme=tokyonight)</a>
-</ br>
+<br>
 <a href="">![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=axelio-dev&theme=tokyonight)</a>
-</ br>
+<br>
 <a href="#">![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=axelio-dev&layout=compact&theme=tokyonight)</a>
-</ br>
+<br>
 <a href="#">![WakaTime](https://github-readme-stats-fast.vercel.app/api/wakatime?username=axelio_dev&theme=tokyonight)</a>
-</ br>
