@@ -18,6 +18,6 @@ I use these software:
 
 ## Activity statistics
 
-<a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=axelio-dev&theme=blueberry&show_icons=true&hide_border=true&line_height=20)</a>
-<a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axelio-dev&exclude_repo=game-of-life&layout=compact&theme=blueberry&hide_border=true)</a>
-<a href="#">![WakaTime](https://github-readme-stats.vercel.app/api/wakatime/?username=axelio_dev&theme=blueberry&layout=compact&hide_border=true&langs_count=6)</a>
+<a href="#">![Github stats](https://github-readme-stats-fast.vercel.app/api?username=axelio-dev&show_icons=true&theme=tokyonight)</a>
+<a href="#">![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=axelio-dev&layout=compact&theme=tokyonight)</a>
+<a href="#">![WakaTime](https://github-readme-stats-fast.vercel.app/api/wakatime?username=axelio_dev&theme=tokyonight)</a>
