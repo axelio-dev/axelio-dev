@@ -19,7 +19,5 @@ I use these software:
 ## Activity statistics
 
 <a href="#">![Github stats](https://github-readme-stats.sodiumlabs.xyz/api?username=axelio-dev&show_icons=true&theme=tokyonight)</a>
-<br>
 <a href="#">![Top Langs](https://github-readme-stats.sodiumlabs.xyz/api/top-langs/?username=axelio-dev&layout=compact&theme=tokyonight)</a>
-<br>
 <a href="#">![WakaTime](https://github-readme-stats.sodiumlabs.xyz/api/wakatime?username=axelio_dev&theme=tokyonight)</a>
