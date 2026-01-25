@@ -9,7 +9,7 @@ I master / use these programming languages:
 ## 🧰 Tools used
 
 I sometimes/regularly use these tools:
-<br /><a href="#">[![](https://skillicons.dev/icons?i=nextjs,react,tailwind,mongodb,git,arduino,&theme=dark)]()</a>
+<br /><a href="#">[![](https://skillicons.dev/icons?i=nextjs,react,tailwind,mongodb,git,arduino,postgresql&theme=dark)]()</a>
 
 ## Platforms / Software used
 
