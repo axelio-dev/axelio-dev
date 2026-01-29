@@ -1,10 +1,6 @@
 # 👋 Hi ! I'm AxelioDev !
 
-<p>
-  <a href="https://wakatime.com/@a486a2a9-9713-41d8-951b-807f91406cb1">
-    <img src="https://wakatime.com/badge/user/a486a2a9-9713-41d8-951b-807f91406cb1.svg" />
-  </a>
-</p>
+<a>[![wakatime](https://wakatime.com/badge/user/a486a2a9-9713-41d8-951b-807f91406cb1.svg)](https://wakatime.com/@a486a2a9-9713-41d8-951b-807f91406cb1)</a>
 
 > As a student passionate about full-stack web development, I constantly seek to learn, progress and become better every day.
 
@@ -18,7 +14,7 @@
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Languages
 <p align="left">
@@ -42,20 +38,17 @@
 
 ---
 
-## 📊 GitHub & Wakatime Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.sodiumlabs.xyz/api?username=axelio-dev&show_icons=true&theme=algolia&hide_border=true&count_private=true" />
-  <img width="10">
-  <img src="https://github-readme-stats.sodiumlabs.xyz/api/top-langs/?username=axelio-dev&layout=compact&theme=algolia&hide_border=true" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.sodiumlabs.xyz/api/wakatime?username=axelio_dev&theme=algolia&hide_border=true" />
-</p>
+## GitHub & Wakatime Stats
+<a href="#">![GitHub stats](https://github-readme-stats.sodiumlabs.xyz/api?username=axelio-dev&show_icons=true&theme=algolia&hide_border=true&count_private=true)
+</a>
+<a href="">![Top Langs](https://github-readme-stats.sodiumlabs.xyz/api/top-langs/?username=axelio-dev&layout=compact&theme=algolia&hide_border=true)
+</a>
+<a href="#">![WakaTime](https://github-readme-stats.sodiumlabs.xyz/api/wakatime?username=axelio_dev&theme=algolia&hide_border=true)
+</a>
 
 ---
 
-## 📬 Contact me
-- 🌐 Portfolio: https://axelio-dev.vercel.app  
-- ✉️ Email: axelio-dev@gmail.com  
-- 💬 Discord: axelio.dev
+## Contact me
+- Portfolio : <a href="https://axelio-dev.vercel.app">https://axelio-dev.vercel.app</a>
+- Email : <a href="mailto:axelio-dev@gmail.com">axelio-dev@gmail.com</a>
+- Discord : <a href="https://discord.com/users/1246396053935095819">axelio.dev</a>
