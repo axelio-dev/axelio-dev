@@ -1,6 +1,6 @@
 # 👋 Hi ! I'm AxelioDev !
 
-<p align="center">
+<p>
   <a href="https://wakatime.com/@a486a2a9-9713-41d8-951b-807f91406cb1">
     <img src="https://wakatime.com/badge/user/a486a2a9-9713-41d8-951b-807f91406cb1.svg" />
   </a>
@@ -44,12 +44,12 @@
 
 ## 📊 GitHub & Wakatime Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.sodiumlabs.xyz/api?username=axelio-dev&show_icons=true&theme=algolia&hide_border=true&count_private=true" />
+  <img width="10">
   <img src="https://github-readme-stats.sodiumlabs.xyz/api/top-langs/?username=axelio-dev&layout=compact&theme=algolia&hide_border=true" />
 </p>
-
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.sodiumlabs.xyz/api/wakatime?username=axelio_dev&theme=algolia&hide_border=true" />
 </p>
 
