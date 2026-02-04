@@ -41,7 +41,7 @@
 ## GitHub & Wakatime Stats
 <a href="#">![GitHub stats](https://github-readme-stats.sodiumlabs.xyz/api?username=axelio-dev&show_icons=true&theme=algolia&hide_border=true&count_private=true)
 </a>
-<a href="">![Top Langs](https://github-readme-stats.sodiumlabs.xyz/api/top-langs/?username=axelio-dev&layout=compact&theme=algolia&hide_border=true)
+<a href="#">![Top Langs](https://github-readme-stats.sodiumlabs.xyz/api/top-langs/?username=axelio-dev&layout=compact&theme=algolia&hide_border=true)
 </a>
 <a href="#">![WakaTime](https://github-readme-stats.sodiumlabs.xyz/api/wakatime?username=axelio_dev&theme=algolia&hide_border=true)
 </a>
